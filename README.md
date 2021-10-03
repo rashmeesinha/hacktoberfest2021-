@@ -9,3 +9,5 @@
          height="45"
          width="45" />
 </h3>
+
+> Read CONTRIBUTING.md for cotribution guidelines
